@@ -3,11 +3,10 @@
 The "silver tsunami" is looming for Pewlett-Hackard, a company with several thousand employees. "Silver Tsunami" is a term that refers to the large number of employees who will retire in the next few years from the company. With such a large number of retirements looming, Pewlett-Hackard needs to be prepared for the cost of retirement packages as well as open positions and future employee training because so much institutional knowledge will be leaving with these employees.  
 
 ### Results: 
-- A total of 90,398 will be retiring in the near future
-- The majority of employees that will be retiring soon are in Senior positions
+- A total of 90,398 employees will be retiring from Pewlett-Hackard in the near future, as determined by their date of birth. 
+- The majority of employees that will be retiring soon are in Senior positions. 
 - 1,549 employees set to retire are eligible for the mentorship program which is a small number in comparison to the number of employees retiring. 
 - Only two managers are retiring, which is helpful because only two leadership positions will need to be filled. 
-
 
 ### Summary: 
 
@@ -15,9 +14,9 @@ The "silver tsunami" is looming for Pewlett-Hackard, a company with several thou
 
 There are 90,3989 employees that are set to retire. This information was queried by joining the employees and titles tables, filtering by date of birth and hiring date. Out of those employees leaving, there are 29,414 Senior Engineers, 28,254 Senior Staff, 14,222 Engineers, 12,243 Staff, 4,502 Technique Leaders, 1,761 Assistant Engineers, and 2 Managers. 
 [Retirements by Title: PH ](https://github.com/Lisa-Floading/Pewlett-Hackard-Analysis/blob/2afc96c5d9bf5beb2675ef3b54620c50cae78551/Retirements_by_titlePH.png "Retirements by Title: PH ")
-******
 
-**Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+**Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?**
 
 The following table shows how many employees are retiring by department. Development has the highest amount of retirements at 3,613 followed closely by Production at 3,021 and Sales at 2,291. These departments should be the main focus of the mentorship initiative.
 
