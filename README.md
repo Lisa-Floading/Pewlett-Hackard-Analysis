@@ -17,7 +17,7 @@ There are 90,3989 employees that are set to retire. This information was queried
 [Retirements by Title: PH ](https://github.com/Lisa-Floading/Pewlett-Hackard-Analysis/blob/2afc96c5d9bf5beb2675ef3b54620c50cae78551/Retirements_by_titlePH.png "Retirements by Title: PH ")
 ******
 
-**Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?******
+**Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 The following table shows how many employees are retiring by department. Development has the highest amount of retirements at 3,613 followed closely by Production at 3,021 and Sales at 2,291. These departments should be the main focus of the mentorship initiative.
 
@@ -73,3 +73,4 @@ AND (de.to_date = '9999-01-01')
 SQL
 PostgreSQL
 pgAdmin
+
